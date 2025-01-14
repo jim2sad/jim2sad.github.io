@@ -1,7 +1,11 @@
 {
     "servers": [
         {
-            "name": "my_omnisette",
+            "name": "internal",
+            "address": "http://192.168.2.247"
+        },
+        {
+            "name": "external",
             "address": "http://192.168.2.247"
         }
     ]
